@@ -8,6 +8,7 @@
 ##
 ##  (linux)  ./ktScript.py ABECD
 ##  (windows) py /path/to/ktFlexScript.py  ACEDB
+##  
 
 import sys
 import argparse
